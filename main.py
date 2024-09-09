@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-SPREADSHEET_ID = "1XHkLkGsXIlpYJxCXpnDrhDgp5vq1MvolFyu03iaVxBA" #Google Sheet ID
+SPREADSHEET_ID = "" #Google Sheet ID
 
 
 def main():
