@@ -1,9 +1,3 @@
-# CSVDownload_GoogleSheet
- 
-Here's a basic README file for your project, detailing how to set up and use the code that interacts with Google Sheets and generates a CSV file from the spreadsheet data.
-
----
-
 # Google Sheets to CSV Script
 
 This Python script fetches data from a Google Spreadsheet and saves it as a CSV file. The script uses Google Sheets API to retrieve data and handles OAuth2 authentication to access the Google Sheet. 
